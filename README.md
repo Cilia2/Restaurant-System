@@ -2,7 +2,9 @@
 
 ## Project Overview
 The Restaurant Management System is a C++ application designed to efficiently handle menu items and customer orders for restaurants. 
+
 It utilizes custom data structures such as dynamic arrays, linked lists, stacks, and queues to ensure smooth operations. 
+
 The system is file-based and interactive, making it user-friendly for restaurant staff.
 
 ## Features
@@ -34,7 +36,8 @@ The system is file-based and interactive, making it user-friendly for restaurant
 ## Project Structure
 
 ### Key Files:
-- `main.cpp`: The main entry point of the application.
+- `RestaurantOrderManagementSystem.h & RestaurantOrderManagementSystem.cpp`: The main entry point of the application.
+- `main.cpp`: Calls the RestaurantOrderManagementSystem to start the system.
 - `Menu.cpp & Menu.h`: Handles menu operations.
 - `Order.cpp & Order.h`: Manages customer orders.
 - `CompletedOrder.cpp & CompletedOrder.h`: Deals with completed orders.
@@ -55,6 +58,7 @@ The system is file-based and interactive, making it user-friendly for restaurant
 
 ### Build & Run Steps:
 Clone or download the project files.
+
 Open a terminal and navigate to the project directory.
 
 ## Usage
