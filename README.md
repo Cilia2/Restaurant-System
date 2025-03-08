@@ -2,9 +2,7 @@
 
 ## Project Overview
 The Restaurant Management System is a C++ application designed to efficiently handle menu items and customer orders for restaurants. 
-
 It utilizes custom data structures such as dynamic arrays, linked lists, stacks, and queues to ensure smooth operations. 
-
 The system is file-based and interactive, making it user-friendly for restaurant staff.
 
 ## Features
