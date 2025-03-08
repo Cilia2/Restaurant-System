@@ -57,16 +57,16 @@ The system is file-based and interactive, making it user-friendly for restaurant
 Clone or download the project files.
 Open a terminal and navigate to the project directory.
 
-### Usage
-## Menu Operations:
+## Usage
+### Menu Operations:
 - Load menu items from menu.txt.
 - Add, delete, or reset menu items interactively.
 - Save updated menu items back to menu.txt.
-## Order Operations:
+### Order Operations:
 - Add customer orders to the queue.
 - Serve and complete orders, moving them to the stack.
 - Cancel active orders if needed.
-## View & Save:
+### View & Save:
 - Display active and completed orders.
 - Calculate total revenue from completed orders.
 - Save completed order details to completed_orders.txt.
